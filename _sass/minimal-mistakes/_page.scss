@@ -70,7 +70,7 @@ body {
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.1;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -108,12 +108,14 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.9rem;
   }
 
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    letter-spacing: 0.1rem;
+    line-height: 1.5rem;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
