@@ -24,9 +24,9 @@ Jekyll是一個靜態網站生成器，可以根據Markdown文件自動生成靜
 因為Jekyll是基於Ruby環境開發的，所以要使用的話自己的環境也得有個Ruby。
 安裝[Ruby](https://rubyinstaller.org/)
 進去我就點Download，看了一下旁邊的說明文字就下載了粗體的那個。
-（圖）
+![github-with-jekyll-01](./img/github-with-jekyll-01.JPG)
 安裝過程中的預設我都沒改，盲人安裝法哈哈。裝完之後會跳出這個，他說不確定就按enter，所以我就不用腦按了enter。
-（圖）
+![github-with-jekyll-02](./img/github-with-jekyll-02.JPG)
 主要注意Ruby的版本必須是2.0.0以上。
 可以使用指令確認
 
