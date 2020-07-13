@@ -2,6 +2,7 @@
 title: "[github page]用不少人推薦的方式:githubpage+Jekyll來架設網站"
 layout: single
 author_profile: true
+comments: true
 categories:
   - computer
 tags:
