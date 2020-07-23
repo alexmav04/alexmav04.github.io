@@ -101,7 +101,7 @@ Ball.prototype.draw = function () {
 
 要判斷有沒有碰右邊的牆，利用球的半徑、目前位置，去跟畫布的寬度比較
 
-![bouncing-ball-01](https://raw.githubusercontent.com/alexmav04/alexmav04.github.io/master/_posts/computer/img/bouncing-ball-01.JPG)
+![bouncing-ball-01](https://raw.githubusercontent.com/alexmav04/alexmav04.github.io/master/_posts/computer/img/bouncing-ball-01.jpg)
 
 如果碰到牆，x方向的速度就設為目前速度的反方向（回彈的概念）
 ```js
@@ -148,8 +148,8 @@ Ball.prototype.update = function () {
 
 ### 讓這些動作重複執行
 這部分會用到以下方法↓
-requestAnimationFrame()：這個方法通知瀏覽器我們想要產生動畫，並且要求瀏覽器在下次重繪畫面前呼叫特定函數更新動畫。
-https://developer.mozilla.org/zh-TW/docs/Web/API/Window.requestAnimationFrame
+
+[requestAnimationFrame()](https://developer.mozilla.org/zh-TW/docs/Web/API/Window.requestAnimationFrame)：這個方法通知瀏覽器我們想要產生動畫，並且要求瀏覽器在下次重繪畫面前呼叫特定函數更新動畫。
 
 首先我們弄出個空間放置這些球：
 
@@ -196,6 +196,7 @@ function loop() {
 但前面說過，動畫是位置隨著時間演進。但如果沒有消除前一個瞬間的東西，下個瞬間又畫上去，那就單純只是畫筆：
 
 所以我們必須在繪製下一個畫格之前，覆蓋一個畫格。
+
 利用 [fillRect(x, y, width, height)](https://developer.mozilla.org/zh-TW/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
 ```js
@@ -238,7 +239,7 @@ loop(); //記得執行
 MDN對於剛接觸程式的自學者算是蠻友善的，雖然尚有一部分沒有中文化，我想透過範例加上查閱應該是不難懂，尤其想學程式學會英文是有必要的。說到中文化，MDN很鼓勵大家去幫忙新增各國語言翻譯，就算只翻到一半也沒關係，有興趣的可以試試看。
 
 這個彈跳球的範例還能延伸到乒乓球，未來會再寫寫看。另外應該也有不少人看到這個例子想到能不能連球體互相碰撞也反彈？這就牽涉到更複雜的設定了，MDN裡面也有提到這些函式庫：
-[PhysicsJS] (http://wellcaffeinated.net/PhysicsJS/)、[matter.js]（https://brm.io/matter-js/）、[Phaser]（ http://phaser.io/）
+[PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)、[matter.js](https://brm.io/matter-js/)、[Phaser]( http://phaser.io/)
 這種物件建構很常用在遊戲製作上，幾乎可以說是基礎。對遊戲有興趣的可以多翻以上幾個網頁。
 
 ---
