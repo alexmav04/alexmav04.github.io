@@ -120,6 +120,9 @@ img {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
+  margin-top: 1.125em;
+  margin-bottom: 2em;
+  box-shadow: 0 0 10px 1px $alex-light-gray;
 }
 
 /* Prevent max-width from affecting Google Maps */

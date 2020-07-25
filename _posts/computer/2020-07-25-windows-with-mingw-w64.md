@@ -84,8 +84,14 @@ gcc -v
 
 到目前為止應該設置完成了。接下來是VScode的設置。
 
-## VScode
+## VScode設置
 這裡之後寫。
+
+---
+參考資料：  
+* [MinGW-w64安装教程——著名C/C++编译器GCC的Windows版本](https://zhuanlan.zhihu.com/p/76613134)  
+* [window下g++' 不是内部或外部命令](https://blog.csdn.net/wzhwei1987/article/details/83414218)  
+* [超簡單Visual Studio Code C/C++設定步驟](https://medium.com/@c52chungyuny/%E8%B6%85%E7%B0%A1%E5%96%AEvisual-studio-code-c-c-%E8%A8%AD%E5%AE%9A%E6%AD%A5%E9%A9%9F-a360be1487c)
 
 
 
