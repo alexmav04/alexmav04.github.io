@@ -10,6 +10,7 @@ tags:
   - jekyll
   - website
   - blog
+  - environment
 ---
 
 雖然之前用過幾個寫文章的平台，也架過一些網站，但終於以個人的名義弄了一個屬於自己的空間，心情還是蠻興奮的。即使現在似乎有不少人是用Heroku或是Hexo等方式搭配，我仍想用用看被GitHub支持的Jekyll。
