@@ -243,7 +243,6 @@ MDN對於剛接觸程式的自學者算是蠻友善的，雖然尚有一部分�
 這種物件建構很常用在遊戲製作上，幾乎可以說是基礎。對遊戲有興趣的可以多翻以上幾個網頁。
 
 ---
-Reference:
-
-[物件建構實作](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/Object_building_practice) - https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/Object_building_practice
+## 參考
+♦ [物件建構實作](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/Object_building_practice)
 

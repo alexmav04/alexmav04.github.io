@@ -1,4 +1,15 @@
-
+---
+title: "[python3]確認與安裝pip"
+layout: single
+author_profile: true
+comments: true
+categories:
+  - computer
+tags:
+  - python3
+  - pip
+  - enivronment
+---
 ### 從pypa.io下載安裝指令碼
 安裝pip之前必須安裝Python。  
 Ubuntu在13.04之後的版本都有預載python3了，確認一下是否真的有安裝。
@@ -9,10 +20,11 @@ python3 --version
 ```
 curl -O https://bootstrap.pypa.io/get-pip.py
 ```
-* 小註解：
-  curl是Linux上透過HTTP協定下載和上傳檔案的指令，格式： `curl [options] [url...]`
-  `-o` 搭配欲下載檔名和網址
-  `-O` 直接使用下載網址的檔名來命名下載的檔案
+* 小註解：  
+  curl是Linux上透過HTTP協定下載和上傳檔案的指令，  
+  格式： `curl [options] [url...]`  
+  `-o` 搭配欲下載檔名和網址  
+  `-O` 直接使用下載網址的檔名來命名下載的檔案  
 
 ### 使用Python執行
 使用python3直接呼叫可以確保即使系統存在較早版本，pip仍然會安裝於適當位置。
@@ -49,5 +61,5 @@ pip ---version
 
 ---
 ## 參考資料
-[在 Linux 上安裝 Python、pip 和 EB CLI](https://docs.aws.amazon.com/zh_tw/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html)
-[Linux Curl Command 指令與基本操作入門教學](https://blog.techbridge.cc/2019/02/01/linux-curl-command-tutorial/)
+♦ [在 Linux 上安裝 Python、pip 和 EB CLI](https://docs.aws.amazon.com/zh_tw/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html)  
+♦ [Linux Curl Command 指令與基本操作入門教學](https://blog.techbridge.cc/2019/02/01/linux-curl-command-tutorial/)

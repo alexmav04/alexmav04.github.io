@@ -279,5 +279,5 @@ __有兩個底線喔__
 難怪寫文時覺得莫名熟悉，突然很愧疚自己竟然隨意批評人家雞婆XDD 網路上也很多關於Evernote加上Markdown的編輯方式，如果有興趣的可以去找一下。
 
 ---
-參考資料：  
-[Markdown 語法說明](https://markdown.tw/)
+## 參考  
+♦ [Markdown 語法說明](https://markdown.tw/)
