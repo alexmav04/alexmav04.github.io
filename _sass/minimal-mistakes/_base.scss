@@ -184,10 +184,13 @@ td > code {
 /* horizontal rule */
 
 hr {
-  display: block;
-  margin: 1em 0;
-  border: 0;
-  border-top: 1px solid $border-color;
+  // display: block;
+  // margin: 1em 0;
+  // border: 0;
+  // border-top: 1px solid $border-color;
+  height: 2px;
+  border-width: 0;
+  background-image: linear-gradient(90deg,transparent 0%,$alex-yellow 50%,transparent 100%);
 }
 
 /* lists */
