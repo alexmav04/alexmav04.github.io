@@ -1,5 +1,5 @@
 ---
-title: "[real analysis]outer measure定義"
+title: "outer measure定義"
 layout: single
 author_profile: true
 comments: true
@@ -33,12 +33,26 @@ tags:
 ### Remarks
 * \\(0 \leq m_*(E) \leq \infty \\)
 * 要注意我們在outer measure 的定義中取的範圍是「無限多組」cube，也就是說，如果把無限改成有限個，並不會是原先定義中的outer measure。然而這也是另有一個名稱，下面將要介紹到。
+* 另一個要注意的點是取的cube是"closed in \\(\mathbb{R}^n\\)"。
+* 其實不一定要是cube，我們把cube替代成為別種樣子，像是rectangle或是ball（這些形狀的定義就自己去查XD）。
+* 關於單點和空集合：   
+  \\(m_{\*}(\varnothing)=0=m_{\*}( \\{ p \\} ),\; \forall p \in \mathbb{R}^n \\) 
 
 ## Definition (Jordan content)
 \\(\text{Let } J_*(E) \text{ be the outer Jordan content of } E \subseteq \mathbb{R}^n \\)
 
 \\(J_*(E):=\inf \left \\{ \displaystyle{\sum^{J}_{j=1} \left \| Q_j \right \| : E \subset \bigcup _{j=1}^{J} Q_j } \right \\} \text{for some } J \in \mathbb{N} \\)
 
+這邊只有改變取cube的加總範圍是有限的。
 
-未完待續，我先去養個肝。
+### 跟outer measure不一樣之處
+要簡單了解不一樣的地方，就是舉例子。  
+隨便在網路上搜尋，或是用以前學高等微積分的思維模式，應該可以很快舉出反例：
+
+遇到這種我們要建立一個明顯可數的又可以簡單計算的一個集合。這時通常會挑 \\(mathbb{Q}\\) feat.一個簡單區間（我這種底子差的記憶法XD）。
+
+詳細等未來再補充。
+
+
+
 
