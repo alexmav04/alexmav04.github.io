@@ -430,7 +430,7 @@ zh-TW: &DEFAULT_ZH_HANT
   pagination_next            : "下一頁"
   breadcrumb_home_label      : "首頁"
   breadcrumb_separator       : "/"
-  menu_label                 : "切換選單"
+  menu_label                 : "Posts"
   search_label               :
   toc_label                  : "本頁"
   ext_link_label             : "外部連結"
@@ -444,7 +444,7 @@ zh-TW: &DEFAULT_ZH_HANT
   comments_label             : "留言"
   comments_title             : "留言內容"
   more_label                 : "了解更多"
-  related_label              : "猜您有與趣"
+  related_label              : "更多文章"#"猜您有與趣"
   follow_label               : #"追蹤:"
   feed_label                 : "RSS" #"RSS Feed"
   powered_by                 : "Powered by"
