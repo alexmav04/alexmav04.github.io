@@ -10,6 +10,8 @@ tags:
   - Ubuntu
   - system
   - error
+sidebar:
+  nav: "sidepost"
 ---
 Linux系統給我的感覺就是必須為自己的所有行為負責（主要是一個錯誤就必須抽絲剝繭）。今天我只是要安裝個ruby環境就突然碰到不少問題，將問題做個分類一一記錄。
 

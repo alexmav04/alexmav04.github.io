@@ -10,6 +10,8 @@ tags:
   - calculus
   - 高淑蓉微積分
   - example
+sidebar:
+  nav: "sidepost"
 ---
 延續上一篇： [(ε, δ)-definition of limit](https://alexmav04.github.io/math/calculus-limit/) 
 

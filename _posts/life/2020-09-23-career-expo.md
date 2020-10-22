@@ -8,6 +8,8 @@ categories:
 tags:
   - jobs
   - career expo
+sidebar:
+  nav: "sidepost"
 ---
 看到標題應該大概知道我這篇想表達什麼了XD
 

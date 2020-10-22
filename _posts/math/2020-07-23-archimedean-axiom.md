@@ -9,6 +9,8 @@ tags:
   - Archimedean axiom
   - axiom
   - numbers
+sidebar:
+  nav: "sidepost"
 ---
 此為讀《數學分析基礎》之筆記。
 

@@ -9,6 +9,8 @@ tags:
   - javascript
   - canvas
   - object
+sidebar:
+  nav: "sidepost"
 ---
 一直以來很常聽到「物件」，但很少去真的實作過。為了補足這方面的概念，我用MDN裡[物件建構實作](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/Object_building_practice)的例子去理解。我認為這是最初階、最易懂、也最有成就感的理解素材了。
 

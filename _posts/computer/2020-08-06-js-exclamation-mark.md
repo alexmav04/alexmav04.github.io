@@ -7,6 +7,8 @@ categories:
   - computer
 tags:
   - javascript
+sidebar:
+  nav: "sidepost"
 ---
 蠻常看到javascript中在function前加一個驚嘆號，理解用途後蠻容易懂的，故先做個筆記放著。
 

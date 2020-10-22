@@ -9,6 +9,8 @@ tags:
   - markdown
   - website
   - blog
+sidebar:
+  nav: "sidepost"
 ---
 大概都參考[Markdown 語法說明](https://markdown.tw/)的內容，這裡用自己的方式記錄我常用的幾項。
 

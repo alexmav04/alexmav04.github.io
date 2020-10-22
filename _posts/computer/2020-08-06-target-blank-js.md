@@ -9,6 +9,8 @@ tags:
   - jekyll
   - website
   - javascript
+sidebar:
+  nav: "sidepost"
 ---
 先說，我這篇完完全全是照這篇文章：[Jekyll 新分頁開啟超連結](https://note.pcwu.net/2017/02/05/jekyll-link-new-tab/)  
 之前太習慣wordpress簡單的介面設定，碰到jekyll這種不熟悉的工具連這個小功能都得求助XD

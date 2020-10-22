@@ -39,12 +39,12 @@ body {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 1em; //$right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: 100px;
+    padding-right: 1em; //100px;
   }
 
   .page__inner-wrap {
@@ -52,8 +52,8 @@ body {
     margin-top: 1em;
     margin-left: 0;
     margin-right: 0;
-    padding: 0.8em;
-    padding-top: 1em;
+    padding: 2em;
+    padding-top: 2em;
     width: 100%;
     clear: both;
     box-shadow: 0.2em 1em 1em 0px #4a5859;

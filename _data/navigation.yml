@@ -11,3 +11,29 @@ main:
 
   - title: "About"
     url: /about/
+
+# sidebar for post
+sidepost:
+  - title: Calculus
+    children:
+      - title: "(ε,δ)-definition of limit"
+        url: /math/calculus-limit/
+      - title: "(ε,δ)-definition 題目範例"
+        url: /math/calculus-delta-epsilon-example/
+
+  - title: Web
+    children:
+      - title: "githubpage+Jekyll架設網站"
+        url: /computer/github-with-jekyll/
+      - title: "強制連結開新的分頁(JS)"
+        url: /computer/target-blank-js/
+
+  - title: Javascript
+    children:
+      - title: "bouncing ball 實作"
+        url: /computer/bouncing-ball-object/
+
+  - title: Raspberry Pi
+    children:
+      - title: "計畫中"
+        #url: #/docs/stylesheets/

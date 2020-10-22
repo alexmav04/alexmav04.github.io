@@ -3,6 +3,8 @@ title: "About"
 layout: page
 permalink: /about/
 author_profile: true
+sidebar:
+  nav: "sidepost"
 ---
 我是Alex，臺灣人。
 

@@ -9,6 +9,8 @@ tags:
   - lemma
   - real analysis
   - outer measure
+sidebar:
+  nav: "sidepost"
 ---
 上一篇[outer measure定義](https://../2020-09-22-outer-measure-definition.md)有提到outer measure究竟是什麼東西，這篇就提幾個關於outer measure的lemma，用我自己理解的方式去解釋這個證明。
 

@@ -9,6 +9,8 @@ tags:
   - Ubuntu
   - jekyll
   - error
+sidebar:
+  nav: "sidepost"
 ---
 最近在Ubuntu上安裝jekyll，遇到不少問題，好險有各種強大的網友們。直到今天真正要使用jekyll去生成我的網站時，各種錯誤訊息來襲，只好認命繼續看哪裡出錯了...
 

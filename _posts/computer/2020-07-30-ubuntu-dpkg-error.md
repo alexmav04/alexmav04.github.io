@@ -9,6 +9,8 @@ tags:
   - Ubuntu
   - system
   - error
+sidebar:
+  nav: "sidepost"
 ---
 安裝套件時一直出現這個錯誤訊息。  
 這篇解決方法是參考這裡:[解決錯誤Sub-process /usr/bin/dpkg returned an error code (1)](https://sites.google.com/a/cnsrl.cycu.edu.tw/da-shu-bi-ji/solve-bug/jiejuecuowusub-processusrbindpkgreturnedanerrorcode1)

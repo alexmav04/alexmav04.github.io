@@ -8,6 +8,8 @@ categories:
 tags:
   - javascript
   - regex
+sidebar:
+  nav: "sidepost"
 ---
 在正規表示式（或稱正則表達式）中的問號 `?` 作用是什麼？看了菜鳥工程師 肉豬的文章寫得很清楚，這邊用自己的話再做一次紀錄。
 

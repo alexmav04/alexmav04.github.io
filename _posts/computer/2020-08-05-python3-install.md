@@ -9,6 +9,8 @@ tags:
   - python3
   - pip
   - enivronment
+sidebar:
+  nav: "sidepost"
 ---
 ### 從pypa.io下載安裝指令碼
 安裝pip之前必須安裝Python。  
