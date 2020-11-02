@@ -101,7 +101,7 @@ $$\displaystyle{v_1 = \frac{\nabla u}{|\nabla u|}}$$, $$\displaystyle{v_2 = \fra
 
 $$u_\rho=G_\rho *u$$，其中 $$G_\rho$$ 就是Gaussian filter
 
-$$J_\rho=G_\rho^*
+$$J_\rho=G_\rho *
 \begin{pmatrix}
 {(u_\rho)_{x_1}}^2 & (u_\rho)_{x_1}(u_\rho)_{x_2}\\
 (u_\rho)_{x_1}(u_\rho)_{x_2} & {(u_\rho)_{x_2}}^2
