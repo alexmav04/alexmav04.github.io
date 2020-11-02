@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "偏微在影像處理的應用-Weickert's approach"
 layout: single
 author_profile: true
 comments: true
@@ -8,7 +8,6 @@ categories:
 tags:
   - image processing
   - partial differential equation
-  - outer measure
 sidebar:
   nav: "sidepost"
 ---
@@ -123,7 +122,7 @@ eigenvectors: \\(\displaystyle{v_1 = \frac{\nabla u}{|\nabla u|}}\\), \\(\displa
 （我完全忘記為什麼筆記會蹦出這個）
 \\(\lambda_1=
 \begin{cases}
-1 & \text{ if } \mu_1=\mu_2 \\ 
+1 & \text{ if } \mu_1=\mu_2 \\
 1-\mathrm{exp}\left ( \displaystyle{\frac{-3.315}{{\mu_1}^4}}\right ) & \text{ otherwise. }
 \end{cases}\\)
 \\(\lambda_2=1\\)
