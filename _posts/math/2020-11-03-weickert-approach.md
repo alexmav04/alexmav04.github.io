@@ -76,7 +76,7 @@ u_{x_1}u_{x_2} & {u_{x_2}}^2
 
 \\(=\mathrm{d}(\theta)^t\cdot\nabla u\cdot \nabla u^t\cdot\mathrm{d}(\theta)\\)
 
-\\(=(\cos\theta \; \sin\theta)
+$$=(\cos\theta \; \sin\theta)
 \begin{pmatrix}
 {u_{x_1}}^2 & u_{x_1}u_{x_2}\\ 
 u_{x_1}u_{x_2} & {u_{x_2}}^2
@@ -84,7 +84,7 @@ u_{x_1}u_{x_2} & {u_{x_2}}^2
 \begin{pmatrix}
 \cos\theta \\ 
 \sin\theta
-\end{pmatrix}\\)
+\end{pmatrix}$$ .
 
 在這裡  
 eigenvalues: 
