@@ -33,6 +33,11 @@ sidepost:
       - title: "bouncing ball 實作"
         url: /computer/bouncing-ball-object/
 
+  - title: C++
+    children:
+      - title: "用linked list做稀疏矩陣加法"
+        url: /computer/sparse-matrix-addition/
+
   - title: Raspberry Pi
     children:
       - title: "計畫中"
