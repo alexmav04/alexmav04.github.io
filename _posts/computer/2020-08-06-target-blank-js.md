@@ -8,7 +8,7 @@ categories:
 tags:
   - jekyll
   - website
-  - javascript
+  - JavaScript
 sidebar:
   nav: "sidepost"
 ---

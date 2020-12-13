@@ -6,7 +6,7 @@ comments: true
 categories:
   - computer
 tags:
-  - javascript
+  - JavaScript
   - canvas
   - object
 sidebar:
