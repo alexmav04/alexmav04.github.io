@@ -1,20 +1,20 @@
 ---
-title: "[javascript] 在function前加一個驚嘆號是什麼意思"
+title: "[JavaScript] 在function前加一個驚嘆號是什麼意思"
 layout: single
 author_profile: true
 comments: true
 categories:
   - computer
 tags:
-  - javascript
+  - JavaScript
 sidebar:
   nav: "sidepost"
 ---
-蠻常看到javascript中在function前加一個驚嘆號，理解用途後蠻容易懂的，故先做個筆記放著。
+蠻常看到JavaScript中在function前加一個驚嘆號，理解用途後蠻容易懂的，故先做個筆記放著。
 
 ---
 
-一般javascript的function有兩種寫法：
+一般JavaScript的function有兩種寫法：
 第一種：
 ```js
 funtion fnAAAA() {

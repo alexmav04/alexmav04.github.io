@@ -1,12 +1,12 @@
 ---
-title: "[javascript]正規表示式中的問號?作用"
+title: "[JavaScript]正規表示式中的問號?作用"
 layout: single
 author_profile: true
 comments: true
 categories:
   - computer
 tags:
-  - javascript
+  - JavaScript
   - regex
 sidebar:
   nav: "sidepost"
