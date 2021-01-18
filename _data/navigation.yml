@@ -40,5 +40,5 @@ sidepost:
 
   - title: Raspberry Pi
     children:
-      - title: "計畫中"
-        #url: #/docs/stylesheets/
+      - title: "無頭式安裝Raspbian"
+        url: /computer/first-meet-to-raspberry/
