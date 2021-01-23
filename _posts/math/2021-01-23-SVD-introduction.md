@@ -50,7 +50,7 @@ $$\begin{align*}
 
 噢這當然看不出個所以然，符號請對照下圖XD
 
-![SVD-intro-01](https://i.imgur.com/eVtmzXP.jpg)
+![SVD-intro-01](https://i.imgur.com/MKeLjAn.jpg)
 
 因為 \\(\mathbf{\Sigma}\\) 的關係，\\(\mathbf{U}\\) 也能夠化簡。這種精簡版的拆解稱為 economy SVD。
 
