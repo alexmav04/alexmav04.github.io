@@ -74,7 +74,7 @@ $$\mathbf{U}\mathbf{V}^* =\begin{pmatrix}
 
 ### 實際操作
 
-還記得在 [SVD 簡介](https://hackmd.io/@alexmav04/BkM8iU4Jd) 曾經特別提及能夠捨去一些矩陣中的冗員，並在此篇中談到我們可以略去奇異值較小的那幾項，我們便是利用這些特質將 SVD 在圖片壓縮上做一個很不錯的應用。
+還記得在 [SVD 簡介](https://alexmav04.github.io/math/SVD-introduction/) 曾經特別提及能夠捨去一些矩陣中的冗員，並在此篇中談到我們可以略去奇異值較小的那幾項，我們便是利用這些特質將 SVD 在圖片壓縮上做一個很不錯的應用。
 
 * MATLAB
 
