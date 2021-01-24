@@ -42,3 +42,12 @@ sidepost:
     children:
       - title: "無頭式安裝Raspbian"
         url: /computer/first-meet-to-raspberry/
+      - title: "架設網頁伺服器"
+        url: /computer/pi-server/
+        
+  - title: SVD
+    children:
+      - title: "SVD 簡介"
+        url: /math/SVD-introduction/
+      - title: "Matrix Approximation"
+        url: /math/SVD-matrix-approximation/

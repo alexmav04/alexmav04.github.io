@@ -1,5 +1,5 @@
 ---
-title: "無頭式安裝Raspbian"
+title: "[Pi]無頭式安裝Raspbian"
 layout: single
 author_profile: true
 comments: true
