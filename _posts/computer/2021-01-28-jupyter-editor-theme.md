@@ -6,7 +6,8 @@ comments: true
 categories:
   - computer
 tags:
-  - raspberry pi
+  - Jupyter
+  - python
 sidebar:
   nav: "sidepost"
 ---
