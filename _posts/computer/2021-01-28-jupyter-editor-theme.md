@@ -7,7 +7,7 @@ categories:
   - computer
 tags:
   - Jupyter
-  - python
+  - Python
 sidebar:
   nav: "sidepost"
 ---
