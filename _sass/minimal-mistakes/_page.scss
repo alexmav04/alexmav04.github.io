@@ -127,13 +127,13 @@ body {
   p,
   li,
   dl {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
   }
 
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
-    letter-spacing: 0.05rem;
+    letter-spacing: 0.07rem;
     line-height: 1.5rem;
 
     /* sibling indentation*/
