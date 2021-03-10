@@ -44,11 +44,11 @@ PCA，全名 Principal Component Analysis ，中文名字叫做主成份分析�
 
 先來談談降維這檔事。為了方便理解推導，我們會先討論最最最簡單的降維：二維降到一維。在我們所理解的座標系統中，就是由平面降到一條線對吧，然而是怎麼執行的呢？
 
-![SVD-and-PCA-1](https://i.imgur.com/4n7iv6I.jpg)
+![SVD-and-PCA-1](https://i.imgur.com/Q1KkPBr.jpg)
 
-首先，假設我們有一組資料，每一個樣本點都有兩個特徵，也就是二維的資料。直觀上來\frac{\partial }{\partial x}講我們會很直覺地將它們畫在我們所熟悉的座標平面上。
+首先，假設我們有一組資料，每一個樣本點都有兩個特徵，也就是二維的資料。直觀上來講我們會很直覺地將它們畫在我們所熟悉的座標平面上。
 
-![SVD-and-PCA-2](https://i.imgur.com/wD0H8wo.jpg)
+![SVD-and-PCA-2](https://i.imgur.com/s7OzwpM.jpg)
 
 看得出來資料分佈在二維平面上了。
 
@@ -70,7 +70,7 @@ PCA，全名 Principal Component Analysis ，中文名字叫做主成份分析�
 
 > 要注意的是，雖然聽起來和線性回歸很像，但是概念卻差很多。線性回歸是要做預測，希望 y 值能夠越接近預測越好，所以在意的是相同的 x 上，資料的 y 值和線上所預測的 y 的距離。而 PCA 不做預測，而是就現有的資料做最好的向量，所需要的是上面我們所講的投影距離。
 > 
-![SVD-and-PCA-3](https://i.imgur.com/gxSBu6g.jpg)
+![SVD-and-PCA-3](https://i.imgur.com/wF3zImf.jpg)
 
 再來，我們會希望變異越大越好。這個乍聽之下很違反直覺，不過冷靜思考一下應該很快能夠理解。所謂變異越大，在圖上的意思是分佈越大，我們希望資料集之間的區別和分佈能夠保留。想像一下，若是轉變一個座標系統，而資料集卻通通擠在一起，那麼原本資料的特性未被保留，降維是否就沒什麼意義了？
 
@@ -88,7 +88,7 @@ PCA，全名 Principal Component Analysis ，中文名字叫做主成份分析�
 
 先來回顧簡單的投影概念：
 
-![SVD-and-PCA-4](https://i.imgur.com/LXilbvI.jpg)
+![SVD-and-PCA-4](https://i.imgur.com/2vqDyec.jpg)
 
 投影後內積的值會是：
 
@@ -162,7 +162,7 @@ f(v,\lambda) &= v^\intercal C v - \lambda(\|v\|-1) \\&= v^\intercal C v - \lambd
 
 ### SVD 簡單介紹
 
-可參考我先前寫的簡單介紹：[SVD 簡介](/al3zF693RjaqezEsozdAGA)
+可參考我先前寫的簡單介紹：[SVD 簡介](https://alexmav04.github.io/math/SVD-introduction/)
 
 借用一點文字過來 recall 一下 XD
 
@@ -211,7 +211,7 @@ $$\begin{align*}
 
 我不太清楚要怎麼用中文精準地表達這個動作XD 在 SVD 中有個很好的特性是它能夠精簡我們要儲存的矩陣。
 
-![SVD-and-PCA-5](https://i.imgur.com/U1fi9iE.jpg)
+![SVD-and-PCA-5](https://i.imgur.com/oUR0K2G.jpg)
 
 對照著上圖，跟著以下文字一起思考：
 
