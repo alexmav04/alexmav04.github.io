@@ -51,3 +51,5 @@ sidepost:
         url: /math/SVD-introduction/
       - title: "Matrix Approximation"
         url: /math/SVD-matrix-approximation/
+      - title: "直觀看待SVD及PCA之關係"
+        url: /math/SVD-and-PCA/
