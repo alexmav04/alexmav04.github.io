@@ -14,12 +14,14 @@ main:
 
 # sidebar for post
 sidepost:
-  - title: Calculus
+  - title: Python
     children:
-      - title: "(ε,δ)-definition of limit"
-        url: /math/calculus-limit/
-      - title: "(ε,δ)-definition 題目範例"
-        url: /math/calculus-delta-epsilon-example/
+      - title: "使用pyinstaller打包程式"
+        url: /computer/pyinstaller/
+      - title: "爬取英文單字存成csv檔"
+        url: /computer/web-crawler-vocabulary/
+      - title: "更換Jupyter佈景主題"
+        url: /computer/jupyter-editor-theme/
 
   - title: Web
     children:
@@ -53,3 +55,10 @@ sidepost:
         url: /math/SVD-matrix-approximation/
       - title: "直觀看待SVD及PCA之關係"
         url: /math/SVD-and-PCA/
+
+  - title: Calculus
+    children:
+      - title: "(ε,δ)-definition of limit"
+        url: /math/calculus-limit/
+      - title: "(ε,δ)-definition 題目範例"
+        url: /math/calculus-delta-epsilon-example/
