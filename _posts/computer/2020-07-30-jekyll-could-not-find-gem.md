@@ -8,7 +8,7 @@ categories:
 tags:
   - Ubuntu
   - jekyll
-  - error
+  - trouble shooting
 sidebar:
   nav: "sidepost"
 ---

@@ -8,7 +8,7 @@ categories:
 tags:
   - jekyll
   - Ruby
-  - error
+  - trouble shooting
 sidebar:
   nav: "sidepost"
 ---

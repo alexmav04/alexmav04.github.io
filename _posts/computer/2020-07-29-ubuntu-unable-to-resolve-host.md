@@ -9,7 +9,7 @@ tags:
   - Linux
   - Ubuntu
   - system
-  - error
+  - trouble shooting
 sidebar:
   nav: "sidepost"
 ---

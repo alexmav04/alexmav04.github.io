@@ -8,7 +8,7 @@ categories:
 tags:
   - Ubuntu
   - system
-  - error
+  - trouble shooting
 sidebar:
   nav: "sidepost"
 ---

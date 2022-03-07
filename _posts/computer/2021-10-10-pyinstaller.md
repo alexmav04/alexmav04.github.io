@@ -11,6 +11,9 @@ tags:
 sidebar:
   nav: "sidepost"
 ---
+
+有時候做完了程式想將他打包起來，當成桌面應用程式或是直接在命令列呼叫，方便許多。這次要介紹的是打包Python程式成 Windows 中 exe 檔的工具－pyinstaller。
+
 ## 使用pyinstaller打包
 
 指令蠻簡單的，基本上是：安裝pyinstaller → 使用 pyinstaller 打包。

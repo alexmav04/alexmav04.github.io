@@ -8,7 +8,7 @@ categories:
 tags:
   - Windows
   - Win10
-  - error
+  - trouble shooting
 sidebar:
   nav: "sidepost"
 ---
