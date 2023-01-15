@@ -3,8 +3,6 @@ title: "搬遷公告"
 layout: single
 author_profile: true
 comments: true
-categories:
-  - math
 tags:
   - announcement
 sidebar:
