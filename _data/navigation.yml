@@ -1,14 +1,5 @@
 # main links
 main:
-  - title: "Math"
-    url: /math/
-
-  - title: "Computer"
-    url: /computer/
-
-  - title: "Life"
-    url: /life/
-
   - title: "About"
     url: /about/
 
