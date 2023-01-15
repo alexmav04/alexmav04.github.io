@@ -6,6 +6,7 @@ comments: true
 categories:
   - computer
 tags:
+  - announcement
 sidebar:
   nav: "sidepost"
 ---

@@ -6,6 +6,7 @@ comments: true
 categories:
   - math
 tags:
+  - announcement
 sidebar:
   nav: "sidepost"
 ---

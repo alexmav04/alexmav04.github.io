@@ -6,6 +6,7 @@ comments: true
 categories:
   - life
 tags:
+  - announcement
 sidebar:
   nav: "sidepost"
 ---
